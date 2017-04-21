@@ -50,8 +50,6 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
 
 **Todo el material utilizado en las clases se encontrará [aquí](https://github.com/EPN-DDI-2017A).**
 
-**DEBEN ACEPTAR LA INVITACION A LA CLASE [AQUí](https://classroom.github.com/classrooms/18445135-diseno-de-interfaces-esfot-epn)**
-
 ### Clase 1 - Introducción
   * Introducción a la materia y explicación de la metodología de trabajo.
   * Aceptar la invitación al ejercicio [aquí](https://classroom.github.com/assignment-invitations/668690611384b7e80918f66283559f7d)
