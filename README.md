@@ -54,7 +54,7 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
 
 ### Clase 1 - Introducción
   * Introducción a la materia y explicación de la metodología de trabajo.
-  * Aceptar la invitación al ejercicio [aquí]()
+  * Aceptar la invitación al ejercicio [aquí](https://classroom.github.com/assignment-invitations/668690611384b7e80918f66283559f7d)
 
 
 
