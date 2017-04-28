@@ -54,6 +54,8 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
   * Introducción a la materia y explicación de la metodología de trabajo.
   * Aceptar la invitación al ejercicio [aquí](https://classroom.github.com/assignment-invitations/668690611384b7e80918f66283559f7d)
 
+### Clase 1 - HTML y CSS (28/04/2017)
+  * Aceptar la invitación al ejercicio [aquí](https://classroom.github.com/assignment-invitations/96c105d7d1ec461a6b7ee31886419ce4)
 
 
 <!-- 
