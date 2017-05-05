@@ -57,72 +57,12 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
 ### Clase 2 - HTML y CSS (28/04/2017)
   * Aceptar la invitación al ejercicio [aquí](https://classroom.github.com/assignment-invitations/96c105d7d1ec461a6b7ee31886419ce4)
 
-
-<!-- 
- ### Clase 2 - Fundamentos de UX
-
-  * **Prerequisitos para esta clase** (Estas tareas las deben completar en casa antes de la clase)
-    * Fundamentos de UX Capítulos 1 y 2 
-    * [UX Fundamentals](http://gymnasium.aquent.com/courses/GYM/103/0/about) LESSON 1. **Entregar los ejercicios realizados en los videos**
-    * [UX Fundamentals](http://gymnasium.aquent.com/courses/GYM/103/0/about) LESSON 5. :bangbang::bangbang: :warning: **NO hacer los ejercicios realizados en esta lección** :warning: :bangbang::bangbang:
-    * **Ejercicios:**Acceder a [Sketch a better TV remote control](https://classroom.github.com/assignment-invitations/f2155a7db50982d1d8aac55c30dd9ffd). **Solo deben completar los 4 Sketches, escanearlos, escribir las descripciones y escribir que les pareció el  proceso. Durante la clase 02 revisarán los sketches de sus compañeros y podrán realizar comentarios sobre cada uno de ellos.**
-
-  * **Actividades en el aula**
-    * Revisar conceptos básicos sobre UX.
-    * Revisar Sketches de los compañeros y realizar críticas **constructivas**.
-    * Dinámica de levantamiento de requerimientos de interfaz (dibujos).
-    * Presentación individual de ideas para proyecto. Ideas de alto impacto donde existan muchos beneficiarios a nivel país, ciudad, región, barrio, etc.
-    * Conformación de grupos de trabajo.
-    * Definición de ideas para los grupos y presentación de la idea final.
-    * Selección de clientes y desarrolladores. Los otros grupos eligen si quieren desarrollar esa idea o no. Si más de un grupo desea desarrollar un mismo proyecto, cada grupo interesado deberá presentar una propuesta grupo cliente y este deberá elegir el que mejor le convenga.
-
-    * **Ideas**
-      * Diego (App para rescate de perrito)
-      * Angelo (Sistema para gestion de canchas sinteticas)
-      * Jhonatan (Recetas ancestrales)
-      * Betsy (reservar BiciQ)
-      * Jessica (Empleos)
-      * Cristina (Control para dibéticos)
-      * Luis (Donaciones para orfanatos)
-      * Marcelo (Promocion de eventos para barrios)
-
-### Clase 3 - Conoce al Usuario
-  * **Prerequisitos para esta clase** (Estas tareas las deben completar en casa antes de la clase)
-    * [UX Fundamentals](http://gymnasium.aquent.com/courses/GYM/103/0/about) LESSON 2. **Entregar los ejercicios realizados en los videos**
-    * [UX Fundamentals](http://gymnasium.aquent.com/courses/GYM/103/0/about) LESSON 4.
-
-    * **Ejercicios:** Aceptar la invitación [aquí]()
-
-  * **Actividades en el aula**
-    * **Grupo 1** (App para rescate de perritos)
-        * Jessica
-        * Diego
-        * Alejandro
-        * **Desarrollador** Grupo 3
-
-    * **Grupo 2** (Sistema para gestion de canchas de futbol)
-        * Angelo
-        * Luis
-        * Jhonattan
-        * **Desarrollador** Grupo 4
-
-    * **Grupo 3** (Promocion de eventos para barrios)
-        * Marcelo
-        * Daniel
-        * Paulo
-        * **Desarrollador** Grupo 1
-
-    * **Grupo 4** (reservar BiciQ)
-        * Cristina
-        * Fernando
-        * Betsy
-        * **Desarrollador** Grupo 2
-
-    * Levantar Requerimientos de sus clientes y entregar un documento con los siguientes puntos
-      * Descripción del problema.
-      * Descripción de la solución que propone el cliente.
-      * **Definición del contenido y tipo de usuarios al que estará orientada la aplicación.**
-
+### Clase 3 - Diseño responsive (05/05/2017)
+  * Entregar los ejercicios de los layouts [aquí](https://classroom.github.com/assignment-invitations/865c4e62493421f70cdaa62465ac905d)
+  * Redactar el documento de su proyecto con las siguientes secciones:
+    * Descripción del problema.
+    * Descripción de la solución.
+    * **Definición del contenido y tipo de usuarios al que estará orientada la aplicación.**
       * **Mapa de Escenarios**
         * ¿Qué hará el usuario de la aplicación? no como lo hará
         * [Ejemplo 1](http://www.uxforthemasses.com/blog/wp-content/uploads/2014/08/Scenario-map-example-1.png)
@@ -145,6 +85,16 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
 
       * **Sitemap**
         * Estructura de páginas de tendrá la aplicación, indicando secciones de manera jerárquica
+
+  * Ver los videos a continuación:
+    * Fundamentos de UX Capítulos 1 y 2 
+    * [LESSON 1](http://gymnasium.aquent.com/courses/GYM/103/0/about) .
+    * [LESSON 5](http://gymnasium.aquent.com/courses/GYM/103/0/about) .
+    * [LESSON 2](http://gymnasium.aquent.com/courses/GYM/103/0/about).
+    * [LESSON 4](http://gymnasium.aquent.com/courses/GYM/103/0/about).
+
+    
+      
 
 
 ### Clase 4 - Contenido con sentido, Prototipos (11/11/2016)
