@@ -95,7 +95,7 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
 
     
       
-
+<!--
 
 ### Clase 4 - Contenido con sentido, Prototipos (11/11/2016)
   * **Prerequisitos para esta clase** (Estas tareas las deben completar en casa antes de la clase)
