@@ -93,7 +93,8 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
     * [LESSON 2](http://gymnasium.aquent.com/courses/GYM/103/0/about).
     * [LESSON 4](http://gymnasium.aquent.com/courses/GYM/103/0/about).
 
-    
+### Clase 4 - JavaScript (12/05/2017)
+  * Crear los grupos [aquí](https://classroom.github.com/group-assignment-invitations/0a972b16b045b6badd2c1507355c02ae)
       
 <!--
 
