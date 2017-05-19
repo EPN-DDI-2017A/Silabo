@@ -96,11 +96,11 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
 ### Clase 4 - JavaScript (12/05/2017)
   * Crear los grupos [aquí](https://classroom.github.com/group-assignment-invitations/0a972b16b045b6badd2c1507355c02ae)
 
-  * Entregar el deber [aquí])(https://classroom.github.com/assignment-invitations/91fdcd236b62bb1df8e603b51ba4881d)
+  * Entregar el deber [aquí](https://classroom.github.com/assignment-invitations/91fdcd236b62bb1df8e603b51ba4881d)
      
 
  ### Clase 5 - Prueba (19/05/2017)
- * Descargar el mockup para la prueba [aquí]()
+ * Descargar el mockup para la prueba [aquí](https://classroom.github.com/assignment-invitations/f49be3207c819198242a5f82065c0357)
 
 <!--
 ### Clase 4 - Contenido con sentido, Prototipos (11/11/2016)
