@@ -97,9 +97,12 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
   * Crear los grupos [aquí](https://classroom.github.com/group-assignment-invitations/0a972b16b045b6badd2c1507355c02ae)
 
   * Entregar el deber [aquí])(https://classroom.github.com/assignment-invitations/91fdcd236b62bb1df8e603b51ba4881d)
-      
-<!--
+     
 
+ ### Clase 5 - Prueba (19/05/2017)
+ * Descargar el mockup para la prueba [aquí]()
+
+<!--
 ### Clase 4 - Contenido con sentido, Prototipos (11/11/2016)
   * **Prerequisitos para esta clase** (Estas tareas las deben completar en casa antes de la clase)
     * Todos los grupos deben traer el documento con:
