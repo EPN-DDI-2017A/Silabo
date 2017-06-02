@@ -101,6 +101,8 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
 
  ### Clase 5 - Prueba (19/05/2017)
  * Descargar el mockup para la prueba [aquí](https://classroom.github.com/assignment-invitations/f49be3207c819198242a5f82065c0357)
+ * Entregar la corrección de la prueba [aquí](https://classroom.github.com/assignment-invitations/f6685bcc9d46aa60b7baa103ce264d4d)
+
 
 <!--
 ### Clase 4 - Contenido con sentido, Prototipos (11/11/2016)
