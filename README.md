@@ -106,6 +106,10 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
 ### Clase 6 - Bootstrap (02/06/2017)
  * Entregar el deber [aquí](https://classroom.github.com/assignment-invitations/808819851662929558595036ca920d30)
 
+### Clase 7 - Repaso Examen (10/06/2017)
+ * Entregar el repaso [aquí](https://classroom.github.com/assignment-invitations/a6fdfb671ef404eee0236c5bd015d193)
+
+
 <!--
 ### Clase 4 - Contenido con sentido, Prototipos (11/11/2016)
   * **Prerequisitos para esta clase** (Estas tareas las deben completar en casa antes de la clase)
