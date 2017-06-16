@@ -109,6 +109,9 @@ El curso estará divido en 3 partes principales: Introducción a UX, Proceso de 
 ### Clase 7 - Repaso Examen (10/06/2017)
  * Entregar el repaso [aquí](https://classroom.github.com/assignment-invitations/a6fdfb671ef404eee0236c5bd015d193)
 
+### Clase 8 - Examen (16/06/2017)
+ * Entregar el repaso [aquí](https://classroom.github.com/assignment-invitations/176b1f8acac877c5c27e4980e41a226f)
+
 
 <!--
 ### Clase 4 - Contenido con sentido, Prototipos (11/11/2016)
